@@ -1,4 +1,4 @@
-shared.LoaderTitle = "Đăng Ký Kênh TBoy Roblox";
+shared.LoaderTitle = "Hiếu đẹp trai";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
